@@ -1,4 +1,4 @@
-# teamprofilegenerat
+# teamprofilegenerator
 
 <img width="1440" alt="Screen Shot 2021-08-15 at 6 18 47 PM" src="https://user-images.githubusercontent.com/81537925/129494373-cbae3ed5-2d9b-43d3-82f9-a2f554a8fb80.png">
 
